@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name": "Rahul Rai",
+    "occupation": "Student",
+    "description": "I eat, sleep and breathe React",
+    "image": "profile_pic.png",
+    "bio": "Hi there! I am Rahul Rai!. I'm 19 years old. I'm a student and work as a ReactJs developer in Shepple technologies.I've been coding for over 2 years now.I love the rush of solving problems, finding creative solutions, and truly having a positive impact on people’s lives while doing something that I love. Coding, for me, is a creative and practical way to do just that, with countless possibilities for me to make a difference in the world due to codings scalable and global nature.I've created so many projects such as LinkedIn Clone, Facebook Clone, Google Clone, Signal Clone, Gmail Clone, Slack Clone,Hulu Clone,Snapchat clone, and many projects created by my own, etc. I’m a nice fun and friendly person. I have a creative mind and am always up for new challenges.I am well organized and always plan ahead to make sure I manage my time well. I have an active and dynamic approach to work and getting things done. I am able to work well both in a team environment as well as using my own initiative.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "rrai06125@gmaiil.com",
+    "phone": "+91 9648772088",
+    "address": {
+      "street": "Prayagraj Road",
+      "city": "India",
+      "state": "Utter Pradesh",
+      "zip": "224001"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCeTxVE1LLCoLR5TD9bhdHBw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rahulraifzb",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahulraifzb",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rahulraifzb/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rahulraifzb",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Chhatrapati Shahuji Maharaj Govt. Polytechnic Ambedkar Nagar 224122",
+        "degree": "Diploma",
+        "graduated": "Sep 2020",
+        "description": "Graduated with First Class Honours"
+      },
+      {
+        "school": "Dr. Ambedkar Balika Inter Collage Chandpur Harvansh Ayodhya 224001",
+        "degree": "High School",
+        "graduated": "Mar 2017",
+        "description": "High School with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Shepple Technologies",
+        "title": "FullStack Developer",
+        "years": "May 2021 - Present",
+        "description": "We develop eCommerce applications, we are Shopify experts, create public and private applications, design themes, create functionalities, help create your first Shopify eCommerce, our goal will always be to help increase your sales in your store."
+      },
+      {
+        "company": "Infoventive Technologies",
+        "title": "React Js Developer",
+        "years": "Nov 2020",
+        "description": "We seamlessly merge two key components – economics and information technology. This is the main factor that sets us apart from our competition and allows us to deliver a specialist business consultancy service. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Django",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "",
+        "image": "slack.png",
+        "url": "https://slack-app-f8e80.web.app/"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.png",
+        "url": "https://app-8c307.web.app/"
+      },
+      {
+        "title": "Hulu Clone (React JS)",
+        "category": "",
+        "image": "Hulu.png",
+        "url": "https://rahulraifzb.github.io/Hulu-landing-page/"
+      },
+      {
+        "title": "Google Drive Clone (React JS)",
+        "category": "",
+        "image": "google-drive.png",
+        "url": "https://drive-app-8304d.web.app/"
+      },
+      {
+        "title": "Todo List App",
+        "category": "",
+        "image": "Todo-list.png",
+        "url": "https://todo-list-app-60cfd.web.app/"
+      },
+      {
+        "title": "Google Clone",
+        "category": "",
+        "image": "google.png",
+        "url": "https://google-like-webapp-nextjs.vercel.app/"
+      },
+      {
+        "title": "Github Search User",
+        "category": "",
+        "image": "github-search-user.png",
+        "url": "https://mygithubusers.netlify.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedIn.png",
+        "url": "https://linkedin-app-8f928.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rahul brings all of the skills and abilities of a driven, established data professional  as he already has the essential characteristics: smart and analytic, fast and responsive, intelligent risk taking, focus. He not only applies those characteristics technically while dealing with data but also while contributing to the Business Decisions . ",
+        "user": "Abu Talha Danish"
+      }
+    ]
+  }
+}
